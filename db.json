@@ -1,0 +1,62 @@
+{
+    "foods":[
+        { 
+            "name":"Patates ve Köfte Kızartma",
+            "content":["kıyma","patates","sıvı yag","sogan","baharat"]
+        },
+        {
+            "id":1,
+            "name":"İçli Köfte",
+            "content":["kıyma","patates","sıvı yag","sogan","baharat"]
+
+        },
+        {
+            "id":2,
+            "name":"Biber Dolma",
+            "content":["kıyma","biber","pirinç","sogan","baharat"]
+
+        },
+        {
+            "id":3,
+            "name":"Kabak Kızartma",
+            "content":["kabak","sıvı yag","yogurt","baharat"]
+
+        },
+        {
+            "id":4,
+            "name":"Mücver",
+            "content":["yumurta","patates","sıvı yag","baharat"]
+
+        },
+        {
+            "id":5,
+            "name":"Çiğ Köfte",
+            "content":["esmer","isot","sıvı yag","salca","baharat"]
+
+        },
+        {
+            "id":6,
+            "name":"Royala Chicken",
+            "content":["tavuk","doritos","yumurta","sıvı yag","baharat"]
+
+        },
+        {
+            "id":7,
+            "name":"Atom Tost",
+            "content":["sucuk","yumurta","kaşar","ketçap-mayonez","baharat"]
+
+        },
+        {
+            "id":8,
+            "name":"Yeşil Fasulye",
+            "content":["fasulye","domates","sıvı yag","sogan","baharat"]
+
+        },
+        {
+            "id":9,
+            "name":"Nohutlu Pilav",
+            "content":["nohut","pilav","sıvı yag","baharat","baharat"]
+
+        }
+    ]
+}
