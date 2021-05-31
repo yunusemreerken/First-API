@@ -25,8 +25,8 @@ https://special-food-list.herokuapp.com/foods/2 yi çağırınca karşımıza il
     }
 ]
 
-https://special-food-list.herokuapp.com/foods/?name=Biber Dolma yazıp çağrı yapınca
-isme bağlı olan ilgili ismin bilgileri gelir
+"https://special-food-list.herokuapp.com/foods/?name=Biber Dolma" tırnak içindeki gibi yazıp çağrı yapınca
+isme bağlı olan ilgili ismin bilgileri gelir.
 
 -Şu şekilde
 [
