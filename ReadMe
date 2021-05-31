@@ -1,1 +1,46 @@
 my first own api - foodlist
+
+
+api link : https://special-food-list.herokuapp.com/
+how to use ?
+https://special-food-list.herokuapp.com/foods yazıp tüm yemekleri getirmiş oluyoruz.
+
+index'e bağlı arama yapmak için x burda api'daki index değeridir.
+https://special-food-list.herokuapp.com/foods/x
+örnek : 
+https://special-food-list.herokuapp.com/foods/2 yi çağırınca karşımıza ilgili indeksin bilgileri gelir.
+
+-Şu şekilde 
+[
+    {
+        id: 2,
+        name: "Biber Dolma",
+        content: [
+        "kıyma",
+        "biber",
+        "pirinç",
+        "sogan",
+        "baharat"
+        ]
+    }
+]
+
+https://special-food-list.herokuapp.com/foods/?name=Biber Dolma yazıp çağrı yapınca
+isme bağlı olan ilgili ismin bilgileri gelir
+
+-Şu şekilde
+[
+    {
+        id: 2,
+        name: "Biber Dolma",
+        content: [
+        "kıyma",
+        "biber",
+        "pirinç",
+        "sogan",
+        "baharat"
+        ]
+    }
+]
+
+Yazımı güncellemeye devam edeceğim.İyi günler...
